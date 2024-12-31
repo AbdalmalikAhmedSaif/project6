@@ -36,7 +36,7 @@ class MyHomePage extends StatelessWidget {
                     color: Colors.black,
                     thickness: 2,
                   ),
-                  Text("ammar@gmail.com"),
+                  Text("abod@gmail.com"),
                 ],
               ),
             ),
